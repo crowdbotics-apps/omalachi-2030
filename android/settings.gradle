@@ -1,0 +1,3 @@
+rootProject.name = 'omalachi_2030'
+
+include ':app'
